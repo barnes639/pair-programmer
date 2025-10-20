@@ -13,3 +13,4 @@ Notes and usage details for pair-programmer.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
