@@ -30,3 +30,4 @@ Notes and usage details for pair-programmer.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
